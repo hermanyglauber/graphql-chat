@@ -3,5 +3,60 @@
     "id": "SJKhIAKYB",
     "from": "system",
     "text": "Welcome!"
+  },
+  {
+    "id": "r1BWCH9ZK",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "HJnr6LcZK",
+    "from": "alice",
+    "text": "hey"
+  },
+  {
+    "id": "SJdLpL9bY",
+    "from": "alice",
+    "text": "how are you?"
+  },
+  {
+    "id": "rJOt_tcbK",
+    "from": "alice",
+    "text": "yes"
+  },
+  {
+    "id": "BJnlFtcWY",
+    "from": "alice",
+    "text": "I'm alice"
+  },
+  {
+    "id": "SkfnFYqbY",
+    "from": "bob",
+    "text": "I am bob"
+  },
+  {
+    "id": "H1vpYF5-Y",
+    "from": "alice",
+    "text": "nice"
+  },
+  {
+    "id": "SytWcF5bK",
+    "from": "bob",
+    "text": "where u from?"
+  },
+  {
+    "id": "rJFAds9-Y",
+    "from": "alice",
+    "text": "good"
+  },
+  {
+    "id": "rkzniKobt",
+    "from": "alice",
+    "text": "hello again"
+  },
+  {
+    "id": "ByNFnYibK",
+    "from": "bob",
+    "text": "hi"
   }
 ]
